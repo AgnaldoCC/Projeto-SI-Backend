@@ -19,7 +19,6 @@ import com.ufcg.si1.service.EspecialidadeMedicaService;
 import com.ufcg.si1.service.UnidadeSaudeService;
 
 import exceptions.EspecialidadeMedicaException;
-import exceptions.UnidadeSaudeException;
 
 @RestController
 @RequestMapping("/api")
